@@ -5,7 +5,7 @@
 
 ## Description
 
-A web crawler that takes in a single wikipedia article and grabs all links on the page and uses a recursive algorithm to grab all the links off the pages from the links off the first page. Then these links are stored a text file. All of these links are then stored in a persistant graph. Dijkstra's best path algorithm is implimented to determine the fastest way to get from link to another. Also the words from the article and their frequencies on the page are stored in a persistant B-Tree. The frequencies are then compared using Cosine Similarity and can be used to determine articles that are most similar to each other based on the frequency of their words.
+A web crawler that takes in a single Wikipedia article and grabs all links on the page and uses a recursive algorithm to grab all the links off the pages from the links off the first page. Then these links are stored a text file. All of these links are then stored in a persistent  graph. Dijkstra's best path algorithm is implemented to determine the fastest way to get from link to another. Also the words from the article and their frequencies on the page are stored in a persistent  B-Tree. The frequencies are then compared using Cosine Similarity and can be used to determine articles that are most similar to each other based on the frequency of their words.
 
 ### Languages
 * Java
