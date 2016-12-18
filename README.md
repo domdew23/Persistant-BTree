@@ -14,7 +14,7 @@ A web crawler that takes in a single wikipedia article and grabs all links on th
 * Eclipse/Netbeans
 
 # How to run the project
-Download the zip file off the repository. Run the main.java file to prompt the GUI. For the first input link choose off a link off of linksToPickFrom.txt and paste it in as the source link. Then choose different link off linksToPickFrom.txt and paste it in as the destination link. Then you will be prompted the best path between these two links.
+Download the zip file off the repository. Run the main.java file to prompt the GUI. For the first input link choose a link off of linksToPickFrom.txt and paste it in as the source link. Then choose a different link off linksToPickFrom.txt and paste it in as the destination link. Then you will be prompted the best path between these two links.
 
 
 # Contributors:
